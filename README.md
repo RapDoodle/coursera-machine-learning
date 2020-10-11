@@ -9,4 +9,4 @@ This repository contains:
 - Solutions to Quizzes (to be added)
 
 # Before using
-I highly encourage you to attempt all the quizzes and programming assignments first. Only use this repository whenever you get stuck.
+I highly encourage you to attempt all the quizzes and programming assignments first. Only use this repository when you get stuck.
